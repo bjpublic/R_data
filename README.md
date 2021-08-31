@@ -8,6 +8,8 @@
 
 ----------------
 
+## 책에 쓰인 자료 다운로드
+
 폴더명 | 설명
 ----- | -----
 [data](https://github.com/bjpublic/R_data/tree/main/data) | 예제용 데이터
