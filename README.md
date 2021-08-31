@@ -22,7 +22,7 @@
 문의 사항은 junyoung8517@naver.com으로 남겨주시기 바랍니다.
 
 <br><br><br>
-## 구매 링크
+## 온라인 서점 구매 링크
 
 - [예스24](http://www.yes24.com/Product/Goods/103449758)
 - [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165920883&orderClick=LET&Kc=)
